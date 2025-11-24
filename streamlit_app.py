@@ -76,8 +76,8 @@ CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
     # },
     labels[0] : {"texts" : ["중국식 냉면은 맛있어"], "images" : ["https://blog.kakaocdn.net/dna/unX30/btq7smC8zrr/AAAAAAAAAAAAAAAAAAAAALC7edUCEFO8Monzl-k7XhHrBXNOigSHBSg7vC_uKO3u/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&expires=1764514799&allow_ip=&allow_referer=&signature=oeoiH6vdEs5cFeDQFUUCjT8bst0%3D"]},
     labels[1] : {"texts" : ["짜장면은 맛있어"], "images" : ["https://i.namu.wiki/i/j2AxLP9AtrcJebh4DVfGxowfXwI3a95dG_YZb_Ktczc6Ca7ACyd_NJL3YHQMw8SABGTQiJDwSpySOSSBLZVEZw.webp"]},
-    labels[2] : {"texts" : ["짬뽕은은 맛있어"], "images" : ["https://img-cf.kurly.com/hdims/resize/%3E720x/quality/90/src/shop/data/goodsview/20230803/gv20000714335_1.jpg"]},
-    labels[3] : {"texts" : ["탕수육은 맛있어"], "images" : ["https://recipe1.ezmember.co.kr/cache/recipe/2020/07/05/2e0e7c019f283bcc36d34cdee876d15b1.jpg"]},
+    labels[2] : {"texts" : ["짬뽕은 맛있어"], "images" : ["https://img-cf.kurly.com/hdims/resize/%3E720x/quality/90/src/shop/data/goodsview/20230803/gv20000714335_1.jpg"]},
+    labels[3] : {"texts" : ["탕수육은 맛있어"], "images" : ["https://www.google.com/url?sa=i&url=https%3A%2F%2Fnamu.wiki%2Fw%2F%25ED%2583%2595%25EC%2588%2598%25EC%259C%25A1&psig=AOvVaw33PILsK4eVSjiddE1XFL22&ust=1764032645490000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCIDs9-vLiZEDFQAAAAAdAAAAABAE"]},
 
 }
 # ======================
