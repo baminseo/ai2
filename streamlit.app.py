@@ -74,7 +74,7 @@ CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
     #   "images": ["https://.../jjampong1.jpg", "https://.../jjampong2.jpg"],
     #   "videos": ["https://youtu.be/XXXXXXXXXXX"]
     # },
-labels[0] : {"text" : ["중국식 냉면은 맛있어"], "images" : [https://www.esquirekorea.co.kr/article/67862] "videos" : [https://youtu.be/JGPPYe7l6qE?si=YNdR4r3s7kKfZTnRㅏㅁelper { color:#607D8B; font-size:.9rem; }
+labels[0] : {"text" : ["중국식 냉면은 맛있어"], "images" : [https://www.esquirekorea.co.kr/article/67862] "videos" : [https://youtu.be/JGPPYe7l6qE?si=YNdR4r3s7kKfZTnRelper { color:#607D8B; font-size:.9rem; }
 .stFileUploader, .stCameraInput { border:2px dashed #1E88E5; border-radius:12px; padding:16px; background:#f5fafe; }
 </style>
 """, unsafe_allow_html=True)
